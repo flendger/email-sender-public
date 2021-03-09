@@ -1,0 +1,4 @@
+module core {
+    exports ru.flendger.email.sender.core;
+    requires jakarta.mail;
+}
